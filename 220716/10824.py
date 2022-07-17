@@ -1,0 +1,5 @@
+n=input()
+n=n.split()
+AB=int(n[0]+n[1])
+CD=int(n[2]+n[3])
+print(AB+CD)
