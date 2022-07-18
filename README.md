@@ -1,4 +1,4 @@
-# BaekJoon_2022
+# BOJ_2022
  Problems solved in acmicpc.net
 
 I have no basics about algorithms, so the codes may look inefficient, but please be considerate about this.
